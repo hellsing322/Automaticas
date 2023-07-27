@@ -1,0 +1,7 @@
+//archivo de umbrales nombre del archivo es el mismo del servidor ftp
+primera fila contiene el idice  ocabeceras
+segunda fila indice de operacion por columa a realizar en el archivo a procesar 0=promedio,1=suma,
+tercera fila tiene umbral maximo de cada columna
+cuarta fila tiene umbral minimo a cada columna
+Quintal fila valor a remaplzar en caso de no cumplir con el rango max-min
+------------------
